@@ -1,0 +1,138 @@
+# Sample Files Index
+
+This file contains an index of all the sample files available in the Alibaba Cloud OSS PHP SDK. Each file demonstrates a specific functionality or feature of the SDK.
+
+- [AbortBucketWorm.php](AbortBucketWorm.php) - Demonstrates how to abort a bucket worm.
+- [AbortMultipartUpload.php](AbortMultipartUpload.php) - Shows how to abort a multipart upload.
+- [AppendObject.php](AppendObject.php) - Illustrates appending data to an object.
+- [AsyncProcessObject.php](AsyncProcessObject.php) - Demonstrates asynchronous processing of objects.
+- [CleanRestoredObject.php](CleanRestoredObject.php) - Shows how to clean restored objects.
+- [CloseMetaQuery.php](CloseMetaQuery.php) - Illustrates closing a meta query.
+- [CompleteMultipartUpload.php](CompleteMultipartUpload.php) - Demonstrates completing a multipart upload.
+- [Copier.php](Copier.php) - Shows how to copy objects.
+- [CopyObject.php](CopyObject.php) - Illustrates copying an object.
+- [CreateAccessPoint.php](CreateAccessPoint.php) - Demonstrates creating an access point.
+- [CreateBucketDataRedundancyTransition.php](CreateBucketDataRedundancyTransition.php) - Demonstrates creating a bucket data redundancy transition.
+- [CreateCnameToken.php](CreateCnameToken.php) - Shows how to create a CNAME token.
+- [DeleteAccessPoint.php](DeleteAccessPoint.php) - Illustrates deleting an access point.
+- [DeleteBucket.php](DeleteBucket.php) - Demonstrates deleting a bucket.
+- [DeleteBucketCors.php](DeleteBucketCors.php) - Shows how to delete bucket CORS configuration.
+- [DeleteBucketDataRedundancyTransition.php](DeleteBucketDataRedundancyTransition.php) - Illustrates deleting a bucket data redundancy transition.
+- [DeleteBucketEncryption.php](DeleteBucketEncryption.php) - Demonstrates deleting bucket encryption.
+- [DeleteBucketInventory.php](DeleteBucketInventory.php) - Shows how to delete bucket inventory configuration.
+- [DeleteBucketLifecycle.php](DeleteBucketLifecycle.php) - Illustrates deleting bucket lifecycle configuration.
+- [DeleteBucketLogging.php](DeleteBucketLogging.php) - Demonstrates deleting bucket logging configuration.
+- [DeleteBucketPolicy.php](DeleteBucketPolicy.php) - Demonstrates deleting bucket policy.
+- [DeleteBucketPublicAccessBlock.php](DeleteBucketPublicAccessBlock.php) - Shows how to delete bucket public access block.
+- [DeleteBucketReplication.php](DeleteBucketReplication.php) - Illustrates deleting bucket replication configuration.
+- [DeleteBucketTags.php](DeleteBucketTags.php) - Demonstrates deleting bucket tags.
+- [DeleteBucketWebsite.php](DeleteBucketWebsite.php) - Shows how to delete bucket website configuration.
+- [DeleteCname.php](DeleteCname.php) - Illustrates deleting a CNAME.
+- [DeleteMultipleObjects.php](DeleteMultipleObjects.php) - Demonstrates deleting multiple objects.
+- [DeleteObject.php](DeleteObject.php) - Shows how to delete an object.
+- [DeleteObjectTagging.php](DeleteObjectTagging.php) - Illustrates deleting object tagging.
+- [DeletePublicAccessBlock.php](DeletePublicAccessBlock.php) - Demonstrates deleting public access block.
+- [DeleteStyle.php](DeleteStyle.php) - Demonstrates deleting a style.
+- [DeleteUserDefinedLogFieldsConfig.php](DeleteUserDefinedLogFieldsConfig.php) - Shows how to delete user-defined log fields configuration.
+- [DeletetAccessPointPolicy.php](DeletetAccessPointPolicy.php) - Illustrates deleting an access point policy.
+- [DescribeRegions.php](DescribeRegions.php) - Demonstrates describing regions.
+- [DoMetaQuery.php](DoMetaQuery.php) - Shows how to perform a meta query.
+- [Downloader.php](Downloader.php) - Illustrates downloading objects.
+- [EncryptionClient.php](EncryptionClient.php) - Demonstrates using the encryption client.
+- [ExtentBucketWorm.php](ExtentBucketWorm.php) - Shows how to extend a bucket worm.
+- [GetAccessPoint.php](GetAccessPoint.php) - Illustrates getting an access point.
+- [GetAccessPointPolicy.php](GetAccessPointPolicy.php) - Demonstrates getting an access point policy.
+- [GetBucketAccessMonitor.php](GetBucketAccessMonitor.php) - Demonstrates getting bucket access monitor configuration.
+- [GetBucketAcl.php](GetBucketAcl.php) - Shows how to get bucket ACL.
+- [GetBucketArchiveDirectRead.php](GetBucketArchiveDirectRead.php) - Illustrates getting bucket archive direct read configuration.
+- [GetBucketCors.php](GetBucketCors.php) - Demonstrates getting bucket CORS configuration.
+- [GetBucketDataRedundancyTransition.php](GetBucketDataRedundancyTransition.php) - Shows how to get bucket data redundancy transition.
+- [GetBucketEncryption.php](GetBucketEncryption.php) - Illustrates getting bucket encryption configuration.
+- [GetBucketHttpsConfig.php](GetBucketHttpsConfig.php) - Demonstrates getting bucket HTTPS configuration.
+- [GetBucketInfo.php](GetBucketInfo.php) - Shows how to get bucket information.
+- [GetBucketInventory.php](GetBucketInventory.php) - Illustrates getting bucket inventory configuration.
+- [GetBucketLifecycle.php](GetBucketLifecycle.php) - Demonstrates getting bucket lifecycle configuration.
+- [GetBucketLocation.php](GetBucketLocation.php) - Shows how to get bucket location.
+- [GetBucketLogging.php](GetBucketLogging.php) - Demonstrates getting bucket logging configuration.
+- [GetBucketPolicy.php](GetBucketPolicy.php) - Shows how to get bucket policy.
+- [GetBucketPolicyStatus.php](GetBucketPolicyStatus.php) - Illustrates getting bucket policy status.
+- [GetBucketPublicAccessBlock.php](GetBucketPublicAccessBlock.php) - Demonstrates getting bucket public access block.
+- [GetBucketReferer.php](GetBucketReferer.php) - Shows how to get bucket referer configuration.
+- [GetBucketReplication.php](GetBucketReplication.php) - Illustrates getting bucket replication configuration.
+- [GetBucketReplicationLocation.php](GetBucketReplicationLocation.php) - Demonstrates getting bucket replication location.
+- [GetBucketReplicationProgress.php](GetBucketReplicationProgress.php) - Shows how to get bucket replication progress.
+- [GetBucketRequestPayment.php](GetBucketRequestPayment.php) - Illustrates getting bucket request payment configuration.
+- [GetBucketResourceGroup.php](GetBucketResourceGroup.php) - Demonstrates getting bucket resource group.
+- [GetBucketStat.php](GetBucketStat.php) - Demonstrates getting bucket statistics.
+- [GetBucketTags.php](GetBucketTags.php) - Shows how to get bucket tags.
+- [GetBucketTransferAcceleration.php](GetBucketTransferAcceleration.php) - Illustrates getting bucket transfer acceleration configuration.
+- [GetBucketVersioning.php](GetBucketVersioning.php) - Demonstrates getting bucket versioning configuration.
+- [GetBucketWebsite.php](GetBucketWebsite.php) - Shows how to get bucket website configuration.
+- [GetBucketWorm.php](GetBucketWorm.php) - Illustrates getting bucket worm configuration.
+- [GetCnameToken.php](GetCnameToken.php) - Demonstrates getting a CNAME token.
+- [GetMetaQueryStatus.php](GetMetaQueryStatus.php) - Shows how to get meta query status.
+- [GetObject.php](GetObject.php) - Illustrates getting an object.
+- [GetObjectAcl.php](GetObjectAcl.php) - Demonstrates getting object ACL.
+- [GetObjectMeta.php](GetObjectMeta.php) - Demonstrates getting object metadata.
+- [GetObjectTagging.php](GetObjectTagging.php) - Shows how to get object tagging.
+- [GetPublicAccessBlock.php](GetPublicAccessBlock.php) - Illustrates getting public access block.
+- [GetStyle.php](GetStyle.php) - Demonstrates getting a style.
+- [GetSymlink.php](GetSymlink.php) - Shows how to get a symlink.
+- [GetUserDefinedLogFieldsConfig.php](GetUserDefinedLogFieldsConfig.php) - Illustrates getting user-defined log fields configuration.
+- [HeadObject.php](HeadObject.php) - Demonstrates getting object headers.
+- [InitiateBucketWorm.php](InitiateBucketWorm.php) - Shows how to initiate a bucket worm.
+- [InitiateMultipartUpload.php](InitiateMultipartUpload.php) - Illustrates initiating a multipart upload.
+- [IsBucketExist.php](IsBucketExist.php) - Demonstrates checking if a bucket exists.
+- [IsObjectExist.php](IsObjectExist.php) - Demonstrates checking if an object exists.
+- [ListAccessPoint.php](ListAccessPoint.php) - Shows how to list access points.
+- [ListBucketDataRedundancyTransition.php](ListBucketDataRedundancyTransition.php) - Illustrates listing bucket data redundancy transitions.
+- [ListBucketInventory.php](ListBucketInventory.php) - Demonstrates listing bucket inventory configurations.
+- [ListBuckets.php](ListBuckets.php) - Shows how to list buckets.
+- [ListCloudBoxes.php](ListCloudBoxes.php) - Illustrates listing cloud boxes.
+- [ListCname.php](ListCname.php) - Demonstrates listing CNAMEs.
+- [ListMultipartUploads.php](ListMultipartUploads.php) - Shows how to list multipart uploads.
+- [ListObjectVersions.php](ListObjectVersions.php) - Illustrates listing object versions.
+- [ListObjects.php](ListObjects.php) - Demonstrates listing objects.
+- [ListObjectsV2.php](ListObjectsV2.php) - Demonstrates listing objects using V2 API.
+- [ListParts.php](ListParts.php) - Shows how to list parts of a multipart upload.
+- [ListStyle.php](ListStyle.php) - Illustrates listing styles.
+- [ListUserDataRedundancyTransition.php](ListUserDataRedundancyTransition.php) - Demonstrates listing user data redundancy transitions.
+- [OpenMetaQuery.php](OpenMetaQuery.php) - Shows how to open a meta query.
+- [OptionObject.php](OptionObject.php) - Illustrates handling OPTIONS requests for objects.
+- [PostObject.php](PostObject.php) - Demonstrates posting an object.
+- [Presign.php](Presign.php) - Shows how to generate presigned URLs.
+- [ProcessObject.php](ProcessObject.php) - Illustrates processing objects.
+- [PutAccessPointPolicy.php](PutAccessPointPolicy.php) - Demonstrates putting an access point policy.
+- [PutBucket.php](PutBucket.php) - Demonstrates creating a bucket.
+- [PutBucketAccessMonitor.php](PutBucketAccessMonitor.php) - Shows how to put bucket access monitor configuration.
+- [PutBucketAcl.php](PutBucketAcl.php) - Illustrates putting bucket ACL.
+- [PutBucketArchiveDirectRead.php](PutBucketArchiveDirectRead.php) - Demonstrates putting bucket archive direct read configuration.
+- [PutBucketCors.php](PutBucketCors.php) - Shows how to put bucket CORS configuration.
+- [PutBucketEncryption.php](PutBucketEncryption.php) - Illustrates putting bucket encryption configuration.
+- [PutBucketHttpsConfig.php](PutBucketHttpsConfig.php) - Demonstrates putting bucket HTTPS configuration.
+- [PutBucketInventory.php](PutBucketInventory.php) - Shows how to put bucket inventory configuration.
+- [PutBucketLifecycle.php](PutBucketLifecycle.php) - Illustrates putting bucket lifecycle configuration.
+- [PutBucketLogging.php](PutBucketLogging.php) - Demonstrates putting bucket logging configuration.
+- [PutBucketPolicy.php](PutBucketPolicy.php) - Demonstrates putting bucket policy.
+- [PutBucketPublicAccessBlock.php](PutBucketPublicAccessBlock.php) - Shows how to put bucket public access block.
+- [PutBucketReferer.php](PutBucketReferer.php) - Illustrates putting bucket referer configuration.
+- [PutBucketReplication.php](PutBucketReplication.php) - Demonstrates putting bucket replication configuration.
+- [PutBucketRequestPayment.php](PutBucketRequestPayment.php) - Shows how to put bucket request payment configuration.
+- [PutBucketResourceGroup.php](PutBucketResourceGroup.php) - Illustrates putting bucket resource group.
+- [PutBucketRtc.php](PutBucketRtc.php) - Demonstrates putting bucket RTC configuration.
+- [PutBucketTags.php](PutBucketTags.php) - Shows how to put bucket tags.
+- [PutBucketTransferAcceleration.php](PutBucketTransferAcceleration.php) - Illustrates putting bucket transfer acceleration configuration.
+- [PutBucketVersioning.php](PutBucketVersioning.php) - Demonstrates putting bucket versioning configuration.
+- [PutBucketWebsite.php](PutBucketWebsite.php) - Demonstrates configuring bucket website hosting.
+- [PutCname.php](PutCname.php) - Shows how to bind a custom domain name to a bucket.
+- [PutObject.php](PutObject.php) - Illustrates uploading an object to OSS.
+- [PutObjectAcl.php](PutObjectAcl.php) - Demonstrates setting object access control permissions.
+- [PutObjectTagging.php](PutObjectTagging.php) - Shows how to set tags for an object.
+- [PutPublicAccessBlock.php](PutPublicAccessBlock.php) - Illustrates blocking public access to objects.
+- [PutStyle.php](PutStyle.php) - Demonstrates creating an image style.
+- [PutSymlink.php](PutSymlink.php) - Shows how to create a symbolic link to an object.
+- [PutUserDefinedLogFieldsConfig.php](PutUserDefinedLogFieldsConfig.php) - Demonstrates configuring user-defined logging fields.
+- [RestoreObject.php](RestoreObject.php) - Shows how to restore archived objects.
+- [UploadPart.php](UploadPart.php) - Illustrates uploading a part in multipart upload.
+- [UploadPartCopy.php](UploadPartCopy.php) - Demonstrates copying a part in multipart upload.
+- [Uploader.php](Uploader.php) - Shows how to use the uploader utility for object uploads.
